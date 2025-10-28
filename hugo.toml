@@ -1,0 +1,6 @@
+baseURL = 'https://yixinyi.github.io/basedketo/'
+languageCode = 'en-us'
+title = 'BasedKeto'
+theme = "PaperMod"
+[params]
+  showFeaturedPost = true
