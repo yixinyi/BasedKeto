@@ -15,7 +15,7 @@ title = "根基生酮"
 
 [params]
 mainSections = ["posts"]
-displayFullLangName = false  # Uses short lang codes (e.g., "EN", "ZH") in the switcher for cleaner UI
+displayFullLangName = true
 
 [languages.en.params]
 mainSections = ["posts"]
@@ -23,4 +23,9 @@ mainSections = ["posts"]
 [languages.zh.params]
 mainSections = ["posts"]
 
-
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "All Posts"
+    url = "/posts/"
+    weight = 10

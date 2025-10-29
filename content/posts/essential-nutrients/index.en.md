@@ -1,12 +1,11 @@
 ---
 title: Essential Nutrients Guide
 draft: false
-date: 2025-10-29
+date: 2025-10-27
 tags:
-
 ---
 
-# Macronutrients
+### Macronutrients
 
 **Air** (for dioxygen)  
 **Water**  
@@ -18,11 +17,10 @@ tags:
 **Protein** (for structure and metabolism)  
 Provides essential amino acids, including bioavailable nitrogen and sulfur.
 
----
 
-# Meso and Micronutrients
+### Meso and Micronutrients
 
-## Nine Essential Amino Acids
+#### Nine Essential Amino Acids
 They build proteins and neurotransmitters essential for growth, repair, and immune function.
 - Histidine  
 - Isoleucine  
@@ -34,9 +32,8 @@ They build proteins and neurotransmitters essential for growth, repair, and immu
 - Tryptophan  
 - Valine  
 
----
 
-## Two Essential Fatty Acids
+#### Two Essential Fatty Acids
 Required for brain function, hormone production, and cellular health.
 
 - **Alpha-linolenic acid (ALA)** – Omega-3  
@@ -47,9 +44,8 @@ Required for brain function, hormone production, and cellular health.
   Ideal omega-6 to omega-3 ratio: **1:1 to 3:1**.  
   Both are polyunsaturated and easily oxidized.
 
----
 
-## Vitamins
+#### Vitamins
 Organic compounds critical for metabolism and cellular function.
 
 - Vitamin A *(pre-formed retinoids: retinol/retinyl esters; provitamin A carotenoids—e.g. β-carotene—convert inefficiently)*  
@@ -67,18 +63,16 @@ Organic compounds critical for metabolism and cellular function.
 - Vitamin K1 *(phylloquinone)*  
 - Vitamin K2 *(menaquinones—e.g. MK-4, MK-7)*  
 
----
 
-## Other Essential Organic Nutrients
+#### Other Essential Organic Nutrients
 - **Choline** – Critical for liver function and neurotransmitters.
 
----
 
-## Essential Minerals
+#### Essential Minerals
 Needed for enzymes, nerve signaling, bone health, and other vital processes.  
 Must be consumed in bioavailable, non-toxic forms.
 
-### Major Minerals
+##### Major Minerals
 (needed in larger amounts)
 - Sodium (Na)  
 - Potassium (K)  
@@ -87,7 +81,7 @@ Must be consumed in bioavailable, non-toxic forms.
 - Magnesium (Mg)  
 - Phosphorus (P)  
 
-### Trace Minerals
+##### Trace Minerals
 (needed in small amounts)
 - Iron (Fe)  
 - Zinc (Zn)  
@@ -107,9 +101,8 @@ Many minerals interact; balance matters.
 - Zinc:Copper ~ 10:1  
 - Iron:Copper ~ 10:1  
 
----
 
-## Possibly Essential or Beneficial Minerals
+#### Possibly Essential or Beneficial Minerals
 Still under investigation for essentiality in humans, but evidence suggests potential roles.
 - Boron  
 - Silicon  
