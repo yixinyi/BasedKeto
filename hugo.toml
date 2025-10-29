@@ -1,7 +1,7 @@
 baseURL = 'https://yixinyi.github.io/BasedKeto/'
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false  # Changed to false
-theme = "PaperMod"
+theme = "ananke"
 
 [languages.en]
 languageName = "English"
@@ -23,6 +23,4 @@ mainSections = ["posts"]
 [languages.zh.params]
 mainSections = ["posts"]
 
-# Optional: Add this for search to work in both languages (requires content/search.md and content/search.zh.md files)
-[outputs]
-home = ["HTML", "RSS", "JSON"]
+
