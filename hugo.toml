@@ -1,6 +1,28 @@
 baseURL = 'https://yixinyi.github.io/BasedKeto/'
-languageCode = 'en-us'
-title = 'BasedKeto'
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false  # Changed to false
 theme = "PaperMod"
+
+[languages.en]
+languageName = "English"
+weight = 1
+title = "BasedKeto"
+
+[languages.zh]
+languageName = "中文"
+weight = 2
+title = "根基生酮"
+
 [params]
-  showFeaturedPost = true
+mainSections = ["posts"]
+displayFullLangName = false  # Uses short lang codes (e.g., "EN", "ZH") in the switcher for cleaner UI
+
+[languages.en.params]
+mainSections = ["posts"]
+
+[languages.zh.params]
+mainSections = ["posts"]
+
+# Optional: Add this for search to work in both languages (requires content/search.md and content/search.zh.md files)
+[outputs]
+home = ["HTML", "RSS", "JSON"]

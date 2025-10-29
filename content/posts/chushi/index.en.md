@@ -1,9 +1,11 @@
 ---
 title: Chushi
 draft: false
+date: 2025-10-27
 tags:
   - recipes
   - protein
+  - carnivore
 ---
 
 This is a no-carb fusion of meat rolls and sushi. Chicken works especially well, but turkey, pork, or beef can be used. It’s easier to make than sushi, since the chicken mixture is naturally sticky and holds the roll together. The recipe has a fat-to-protein ratio slightly over 1:1, but pairing with a fatty sauce or a keto side dish makes it a richer keto meal. For extra pungentness, wasabi or Colman’s English mustard work great.
@@ -46,5 +48,16 @@ This is a no-carb fusion of meat rolls and sushi. Chicken works especially well,
 9. Let rest 10 min so the chicken reabsorbs the oil, leaving a flavorful sauce.
     
 10. Slice like sushi. Serve warm or cold. 
+
+### Nutrition Information
+
+- **Calories:** 1442
+    
+- **Fat:** 110g
+    
+- **Protein:** 110g
+    
+- **Net Carbs:** 3g
+
 
 ![Alt text](chushi.jpg)
