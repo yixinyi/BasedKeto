@@ -1,6 +1,6 @@
 
 ---
-title: 你好
+title: 欢迎访问本博客!
 weight: 1
 ---
 

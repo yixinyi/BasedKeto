@@ -1,9 +1,11 @@
 ---
 title: Essential Nutrients Guide
 draft: false
-date: 2025-10-27
+date: 2025-11-01
 tags:
+  - guide
 ---
+Standard keto targets about a 1:1 to 2:1 fat:protein ratio, with net carbs ideally not more than 20g per day; therapeutic keto uses 3:1 to 4:1. Macronutrients (macros) do not ensure micronutrient sufficiency. Cover meso and micronutrients with low-carb vegetables and nutrient-dense animal foods. Below is a list of essential nutrients the human body cannot synthesize.
 
 ### Macronutrients
 

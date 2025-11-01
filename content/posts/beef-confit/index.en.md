@@ -35,7 +35,7 @@ Confit is a traditional French method of slow-cooking meat in fat at a low tempe
     
 5. **Storage:** Let it cool slightly, then lift the meat from the fat. A layer of flavorful, gelatinous juices will have settled beneath it. Separate these from the fat and use them as a rich broth or sauce. The fat can be served with the meat or reserved for future confit or cooking.
 
-### Nutrition Information
+### Nutrition Information (oil excluded)
 
 - **Protein:** 200g
 

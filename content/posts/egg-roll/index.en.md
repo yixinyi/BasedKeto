@@ -1,7 +1,7 @@
 ---
 title: Keto Egg Roll
 draft: false
-date: 2025-10-27
+
 tags:
   - recipes
   - staple

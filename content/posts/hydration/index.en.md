@@ -3,6 +3,7 @@ title: Hydration Protocol
 draft: false
 date: 2025-10-27
 tags:
+  - guide
 ---
 
 High-fat meals take much longer to digest than carbohydrate-heavy ones—sometimes 5 hours or more, especially if digestion is slow. Digestion itself draws water into the gut, while the extended stomach-emptying time reduces how much water can be absorbed during this period. For this reason, it’s important to plan water intake around meals to avoid discomfort while staying properly hydrated between them. The following protocol offers a simple way to optimize hydration and support digestion on a high-fat ketogenic diet:
