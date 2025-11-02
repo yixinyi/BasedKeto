@@ -19,8 +19,7 @@ High-fat meals take much longer to digest than carbohydrate-heavy ones—sometim
     
     - Sip small amounts of warm or hot water only, or none at all.
         
-    - Cold or even room-temperature water can slow fat digestion and trigger cramps.
-        
+    - Cold or even room-temperature water can slow fat digestion, trigger cramps, or cause heartburn.
         
 3. **Post-Meal Water**
     

@@ -4,7 +4,6 @@ draft: false
 date: 2025-10-27
 tags:
   - recipes
-  - protein
   - carnivore
 ---
 

@@ -39,4 +39,15 @@ The fat can feel heavy if you’re new to keto, so the vegetables may be drained
 6. **Serve warm:**  The side pairs especially well with leaner meats.
 
 
+### Nutrition Information 
+
+- **Calories:** 1932
+    
+- **Fat:** 200g
+    
+- **Protein:** 8g
+    
+- **Net Carbs:** 25g
+
+
 ![Alt text](tutti-fatty.jpg)
