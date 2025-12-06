@@ -35,7 +35,7 @@ This keto egg roll dish takes inspiration from the Japanese _tamagoyaki_. The eg
 
 4. **Serve**: Let it cool slightly, then slice into rolls. Serve warm or cool. Add more vinegar on top or pair with something sour, such as fermented pickles.
 
-### Nutrition Information
+### Total Nutrition Information
 
 - **Calories:** 375
     

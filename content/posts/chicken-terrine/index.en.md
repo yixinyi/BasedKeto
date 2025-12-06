@@ -60,7 +60,7 @@ A smooth, herb-infused chicken terrine with a 2:1 fat-to-protein ratio. Fresh ba
 8. **Serve**: Slice or scoop and serve cold — as a complete meal or paired with side vegetables such as grilled peppers.
     
 
-### Nutrition Information
+### Total Nutrition Information
 
 - **Calories:** 2530
     

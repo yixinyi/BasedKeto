@@ -34,7 +34,7 @@ This keto eggplant sauce reimagines the Middle Eastern classic _baba ganoush_ in
 
 6. **Storage:** Keeps in the fridge for up to 5 days. Flavor improves overnight.  
  
-### Nutrition Information (excluding optional ingredients)
+### Total Nutrition Information (excluding optional ingredients)
 
 - **Calories:** 2152
     

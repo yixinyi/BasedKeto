@@ -48,7 +48,7 @@ This is a no-carb fusion of meat rolls and sushi. Chicken works especially well,
     
 10. Slice like sushi. Serve warm or cold. 
 
-### Nutrition Information
+### Total Nutrition Information
 
 - **Calories:** 1442
     
