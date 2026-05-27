@@ -1,0 +1,8 @@
+User-agent: *
+{{/* In production, allow crawlers and point them at the project-page sitemap. */ -}}
+{{ if hugo.IsProduction -}}
+Allow: /
+Sitemap: {{ "sitemap.xml" | absURL }}
+{{ else -}}
+Disallow: /
+{{ end -}}

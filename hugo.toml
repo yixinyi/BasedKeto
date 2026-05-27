@@ -1,6 +1,7 @@
 baseURL = 'https://yixinyi.github.io/BasedKeto/'
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false  # Changed to false
+enableRobotsTXT = true
 theme = "ananke"
 
 [languages.en]
@@ -16,12 +17,15 @@ title = "根基生酮"
 [params]
 mainSections = ["posts"]
 displayFullLangName = true
+description = "Minimalist keto recipes and guides focused on real food, clean fats, and foundational ketogenic eating."
 
 [languages.en.params]
 mainSections = ["posts"]
+description = "Minimalist keto recipes and guides focused on real food, clean fats, and foundational ketogenic eating."
 
 [languages.zh.params]
 mainSections = ["posts"]
+description = "根基生酮是一个极简生酮食谱与指南博客，专注真实食物、纯净脂肪和基础生酮饮食。"
 
 [menu]
 
@@ -34,5 +38,5 @@ mainSections = ["posts"]
   [[languages.zh.menu.main]]
     identifier = "posts"
     name = "所有文章"
-    url = "/posts/"
+    url = "/zh/posts/"
     weight = 10
