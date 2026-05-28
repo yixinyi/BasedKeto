@@ -1,0 +1,38 @@
+{{- $buttondown := .Site.Params.buttondown -}}
+{{- if and (not (compare.Eq $buttondown.enabled false)) $buttondown.username -}}
+  {{- $lang := .Language.Lang | compare.Default "en" -}}
+  {{- $action := printf "https://buttondown.com/api/emails/embed-subscribe/%s" $buttondown.username -}}
+  {{- $title := .Param "newsletter_title" | compare.Default "Get new posts by email" -}}
+  {{- $description := .Param "newsletter_description" | compare.Default "Subscribe to receive new posts in your inbox." -}}
+  {{- $placeholder := .Param "newsletter_placeholder" | compare.Default "you@example.com" -}}
+  {{- $button := .Param "newsletter_button" | compare.Default "Subscribe" -}}
+  {{- $privacy := .Param "newsletter_privacy" | compare.Default "No spam. Unsubscribe anytime." -}}
+  {{- $emailID := printf "newsletter-email-%s" $lang -}}
+
+  <section class="newsletter-signup mv5 pv4 bt bb b--black-10">
+    <h2 class="f3 athelas mt0 mb2 black-80">{{ $title }}</h2>
+    <p class="f5 lh-copy mt0 mb3 mid-gray">{{ $description }}</p>
+    <form
+      action="{{ $action }}"
+      method="post"
+      class="embeddable-buttondown-form flex flex-column flex-row-ns"
+    >
+      <label class="clip" for="{{ $emailID }}">Email</label>
+      <input
+        id="{{ $emailID }}"
+        type="email"
+        name="email"
+        class="input-reset ba b--black-20 br2 pa3 f5 flex-auto mb2 mb0-ns mr2-ns"
+        placeholder="{{ $placeholder }}"
+        required
+      >
+      <input type="hidden" value="1" name="embed">
+      <input type="hidden" name="tag" value="basedketo">
+      <input type="hidden" name="tag" value="{{ $lang }}">
+      <button class="button-reset bg-black-80 hover-bg-black white ba b--black-80 br2 ph4 pv3 f5 pointer" type="submit">
+        {{ $button }}
+      </button>
+    </form>
+    <p class="f6 lh-copy mt3 mb0 silver">{{ $privacy }}</p>
+  </section>
+{{- end -}}

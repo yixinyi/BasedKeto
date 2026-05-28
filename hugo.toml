@@ -19,13 +19,27 @@ mainSections = ["posts"]
 displayFullLangName = true
 description = "Minimalist keto recipes and guides focused on real food, clean fats, and foundational ketogenic eating."
 
+[params.buttondown]
+enabled = true
+username = "xinyi"
+
 [languages.en.params]
 mainSections = ["posts"]
 description = "Minimalist keto recipes and guides focused on real food, clean fats, and foundational ketogenic eating."
+newsletter_title = "Get new keto recipes by email"
+newsletter_description = "Simple recipes and foundational keto notes, sent when there is something new."
+newsletter_placeholder = "you@example.com"
+newsletter_button = "Subscribe"
+newsletter_privacy = "No spam. Unsubscribe anytime."
 
 [languages.zh.params]
 mainSections = ["posts"]
 description = "根基生酮是一个极简生酮食谱与指南博客，专注真实食物、纯净脂肪和基础生酮饮食。"
+newsletter_title = "通过邮件接收新的生酮内容"
+newsletter_description = "有新的极简食谱和基础生酮笔记时发送给你。"
+newsletter_placeholder = "you@example.com"
+newsletter_button = "订阅"
+newsletter_privacy = "不发送垃圾邮件，可随时取消订阅。"
 
 [menu]
 
